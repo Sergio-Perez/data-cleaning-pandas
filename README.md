@@ -10,7 +10,7 @@ Yo creo que en los años noventa es donde atacaron mśs tiburones contando el si
 
 
 
-['tiburon'](https://github.com/Sergio-Perez/data-cleaning-pandas/tree/master/INPUT/tiburon.jpeg)
+(https://github.com/Sergio-Perez/data-cleaning-pandas/tree/master/INPUT/tiburon.jpeg)
 
 
 
