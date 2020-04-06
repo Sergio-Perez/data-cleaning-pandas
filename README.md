@@ -16,6 +16,12 @@ Yo creo que en los años noventa es donde atacaron mśs tiburones contando el si
 
 
 
+
+
+
+
+
+
 Introduccion:
 Primero cargamos el archivo "attacks.csv".      
 
