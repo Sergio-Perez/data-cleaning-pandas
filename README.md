@@ -11,7 +11,7 @@ Yo creo que en los años noventa es donde atacaron mśs tiburones contando el si
 
 
 
-/INPUT/tiburon.jpeg
+[](INPUT/tiburon.jpeg)
 
 
 
