@@ -1,8 +1,8 @@
-Proyect Limpieza y busqueda de hipotesis
+# Proyect Limpieza y busqueda de hipotesis
 
-Vamos a limpiar un Data_Csv 
+Vamos a limpiar un Data_Csv.
 
-Hipotesis
+## Hipótesis
 Yo creo que en los años noventa es donde atacaron mśs tiburones contando el siglo XX y el siglo XXI.
 
 
@@ -22,7 +22,7 @@ Yo creo que en los años noventa es donde atacaron mśs tiburones contando el si
 
 
 
-Introduccion:
+## Introduccion:
 Primero cargamos el archivo "attacks.csv".      
 
 
@@ -38,12 +38,12 @@ Después limpiamos los valores None de las dos columnas principales que vamos a 
 
 Voy a crear una nueva columna llamada “Decada” y la voy a crear filtrando los valores de year en cada una de las decadas del siglo XX y siglo XXI . Y lo voy a usar para compara los casos que ocurrieron en esas decadas. Depués elimino los valores 0 que salen en la columna Decada.
 Saco un gráfico de esa solución. 
- Y sacar el resultado de si mi hipótesis es verdadero o falso.
+Y sacar el resultado de si mi hipótesis es verdadero o falso.
 
 
 
 
-Usamos estas librerias:
+## Usamos estas librerias:
 
 import matplotlib
 import matplotlib.pyplot as plt
