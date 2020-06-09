@@ -45,8 +45,5 @@ Y sacar el resultado de si mi hipótesis es verdadero o falso.
 
 ## Usamos estas librerias:
 
-import matplotlib
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-import re
+matplotlib, pandas, numpy, regex
+
